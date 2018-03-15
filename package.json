@@ -1,0 +1,23 @@
+{
+	"name": "chin-ind-afh-layouts",
+	"version": "1.0.0",
+	"description": "no description yet",
+	"main": "index.js",
+	"dependencies": {
+		"gulp": "^3.9.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tjjjia/chin-ind-afh-rest.git"
+	},
+	"author": "tjjjia",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/tjjjia/chin-ind-afh-rest/issues"
+	},
+	"homepage": "https://github.com/tjjjia/chin-ind-afh-rest#readme"
+}
